@@ -1,0 +1,1090 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Ki 6\\Application Development\\du an cua thay thanh\\CHBHTH\\CHBHTH\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{617EC3CF-AD6E-454D-AFD7-CD2C748D871C}|CHBHTH\\CHBHTH.csproj|D:\\Ki 6\\Application Development\\du an cua thay thanh\\CHBHTH\\CHBHTH\\chbhth\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{617EC3CF-AD6E-454D-AFD7-CD2C748D871C}|CHBHTH\\CHBHTH.csproj|solutionrelative:chbhth\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{617EC3CF-AD6E-454D-AFD7-CD2C748D871C}|CHBHTH\\CHBHTH.csproj|d:\\ki 6\\application development\\du an cua thay thanh\\chbhth\\chbhth\\chbhth\\areas\\admin\\views\\shared\\_layoutadmin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{617EC3CF-AD6E-454D-AFD7-CD2C748D871C}|CHBHTH\\CHBHTH.csproj|solutionrelative:chbhth\\areas\\admin\\views\\shared\\_layoutadmin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{617EC3CF-AD6E-454D-AFD7-CD2C748D871C}|CHBHTH\\CHBHTH.csproj|D:\\Ki 6\\Application Development\\du an cua thay thanh\\CHBHTH\\CHBHTH\\chbhth\\areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{617EC3CF-AD6E-454D-AFD7-CD2C748D871C}|CHBHTH\\CHBHTH.csproj|solutionrelative:chbhth\\areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{617EC3CF-AD6E-454D-AFD7-CD2C748D871C}|CHBHTH\\CHBHTH.csproj|D:\\Ki 6\\Application Development\\du an cua thay thanh\\CHBHTH\\CHBHTH\\chbhth\\areas\\admin\\views\\nhacungcaps\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{617EC3CF-AD6E-454D-AFD7-CD2C748D871C}|CHBHTH\\CHBHTH.csproj|solutionrelative:chbhth\\areas\\admin\\views\\nhacungcaps\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{617EC3CF-AD6E-454D-AFD7-CD2C748D871C}|CHBHTH\\CHBHTH.csproj|D:\\Ki 6\\Application Development\\du an cua thay thanh\\CHBHTH\\CHBHTH\\chbhth\\areas\\admin\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{617EC3CF-AD6E-454D-AFD7-CD2C748D871C}|CHBHTH\\CHBHTH.csproj|solutionrelative:chbhth\\areas\\admin\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{617EC3CF-AD6E-454D-AFD7-CD2C748D871C}|CHBHTH\\CHBHTH.csproj|D:\\Ki 6\\Application Development\\du an cua thay thanh\\CHBHTH\\CHBHTH\\chbhth\\areas\\admin\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{617EC3CF-AD6E-454D-AFD7-CD2C748D871C}|CHBHTH\\CHBHTH.csproj|solutionrelative:chbhth\\areas\\admin\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{617EC3CF-AD6E-454D-AFD7-CD2C748D871C}|CHBHTH\\CHBHTH.csproj|D:\\Ki 6\\Application Development\\du an cua thay thanh\\CHBHTH\\CHBHTH\\chbhth\\areas\\admin\\controllers\\nhacungcapscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{617EC3CF-AD6E-454D-AFD7-CD2C748D871C}|CHBHTH\\CHBHTH.csproj|solutionrelative:chbhth\\areas\\admin\\controllers\\nhacungcapscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{617EC3CF-AD6E-454D-AFD7-CD2C748D871C}|CHBHTH\\CHBHTH.csproj|D:\\Ki 6\\Application Development\\du an cua thay thanh\\CHBHTH\\CHBHTH\\chbhth\\areas\\admin\\controllers\\chitietdonhangscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{617EC3CF-AD6E-454D-AFD7-CD2C748D871C}|CHBHTH\\CHBHTH.csproj|solutionrelative:chbhth\\areas\\admin\\controllers\\chitietdonhangscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{617EC3CF-AD6E-454D-AFD7-CD2C748D871C}|CHBHTH\\CHBHTH.csproj|D:\\Ki 6\\Application Development\\du an cua thay thanh\\CHBHTH\\CHBHTH\\chbhth\\views\\shared\\_layoutclient2.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{617EC3CF-AD6E-454D-AFD7-CD2C748D871C}|CHBHTH\\CHBHTH.csproj|solutionrelative:chbhth\\views\\shared\\_layoutclient2.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{617EC3CF-AD6E-454D-AFD7-CD2C748D871C}|CHBHTH\\CHBHTH.csproj|D:\\Ki 6\\Application Development\\du an cua thay thanh\\CHBHTH\\CHBHTH\\chbhth\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{617EC3CF-AD6E-454D-AFD7-CD2C748D871C}|CHBHTH\\CHBHTH.csproj|solutionrelative:chbhth\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{617EC3CF-AD6E-454D-AFD7-CD2C748D871C}|CHBHTH\\CHBHTH.csproj|D:\\Ki 6\\Application Development\\du an cua thay thanh\\CHBHTH\\CHBHTH\\chbhth\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{617EC3CF-AD6E-454D-AFD7-CD2C748D871C}|CHBHTH\\CHBHTH.csproj|solutionrelative:chbhth\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{617EC3CF-AD6E-454D-AFD7-CD2C748D871C}|CHBHTH\\CHBHTH.csproj|D:\\Ki 6\\Application Development\\du an cua thay thanh\\CHBHTH\\CHBHTH\\chbhth\\areas\\admin\\controllers\\tintucscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{617EC3CF-AD6E-454D-AFD7-CD2C748D871C}|CHBHTH\\CHBHTH.csproj|solutionrelative:chbhth\\areas\\admin\\controllers\\tintucscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{617EC3CF-AD6E-454D-AFD7-CD2C748D871C}|CHBHTH\\CHBHTH.csproj|D:\\Ki 6\\Application Development\\du an cua thay thanh\\CHBHTH\\CHBHTH\\chbhth\\areas\\admin\\controllers\\thongkescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{617EC3CF-AD6E-454D-AFD7-CD2C748D871C}|CHBHTH\\CHBHTH.csproj|solutionrelative:chbhth\\areas\\admin\\controllers\\thongkescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{617EC3CF-AD6E-454D-AFD7-CD2C748D871C}|CHBHTH\\CHBHTH.csproj|D:\\Ki 6\\Application Development\\du an cua thay thanh\\CHBHTH\\CHBHTH\\chbhth\\areas\\admin\\controllers\\taikhoanscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{617EC3CF-AD6E-454D-AFD7-CD2C748D871C}|CHBHTH\\CHBHTH.csproj|solutionrelative:chbhth\\areas\\admin\\controllers\\taikhoanscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{617EC3CF-AD6E-454D-AFD7-CD2C748D871C}|CHBHTH\\CHBHTH.csproj|D:\\Ki 6\\Application Development\\du an cua thay thanh\\CHBHTH\\CHBHTH\\chbhth\\areas\\admin\\controllers\\sanphamscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{617EC3CF-AD6E-454D-AFD7-CD2C748D871C}|CHBHTH\\CHBHTH.csproj|solutionrelative:chbhth\\areas\\admin\\controllers\\sanphamscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{617EC3CF-AD6E-454D-AFD7-CD2C748D871C}|CHBHTH\\CHBHTH.csproj|D:\\Ki 6\\Application Development\\du an cua thay thanh\\CHBHTH\\CHBHTH\\chbhth\\areas\\admin\\controllers\\phanquyenscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{617EC3CF-AD6E-454D-AFD7-CD2C748D871C}|CHBHTH\\CHBHTH.csproj|solutionrelative:chbhth\\areas\\admin\\controllers\\phanquyenscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{617EC3CF-AD6E-454D-AFD7-CD2C748D871C}|CHBHTH\\CHBHTH.csproj|D:\\Ki 6\\Application Development\\du an cua thay thanh\\CHBHTH\\CHBHTH\\chbhth\\areas\\admin\\controllers\\loaihangscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{617EC3CF-AD6E-454D-AFD7-CD2C748D871C}|CHBHTH\\CHBHTH.csproj|solutionrelative:chbhth\\areas\\admin\\controllers\\loaihangscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{617EC3CF-AD6E-454D-AFD7-CD2C748D871C}|CHBHTH\\CHBHTH.csproj|D:\\Ki 6\\Application Development\\du an cua thay thanh\\CHBHTH\\CHBHTH\\chbhth\\areas\\admin\\controllers\\donhangscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{617EC3CF-AD6E-454D-AFD7-CD2C748D871C}|CHBHTH\\CHBHTH.csproj|solutionrelative:chbhth\\areas\\admin\\controllers\\donhangscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{617EC3CF-AD6E-454D-AFD7-CD2C748D871C}|CHBHTH\\CHBHTH.csproj|D:\\Ki 6\\Application Development\\du an cua thay thanh\\CHBHTH\\CHBHTH\\chbhth\\controllers\\donhangscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{617EC3CF-AD6E-454D-AFD7-CD2C748D871C}|CHBHTH\\CHBHTH.csproj|solutionrelative:chbhth\\controllers\\donhangscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{617EC3CF-AD6E-454D-AFD7-CD2C748D871C}|CHBHTH\\CHBHTH.csproj|D:\\Ki 6\\Application Development\\du an cua thay thanh\\CHBHTH\\CHBHTH\\chbhth\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{617EC3CF-AD6E-454D-AFD7-CD2C748D871C}|CHBHTH\\CHBHTH.csproj|solutionrelative:chbhth\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{617EC3CF-AD6E-454D-AFD7-CD2C748D871C}|CHBHTH\\CHBHTH.csproj|D:\\Ki 6\\Application Development\\du an cua thay thanh\\CHBHTH\\CHBHTH\\chbhth\\controllers\\sanphamcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{617EC3CF-AD6E-454D-AFD7-CD2C748D871C}|CHBHTH\\CHBHTH.csproj|solutionrelative:chbhth\\controllers\\sanphamcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{617EC3CF-AD6E-454D-AFD7-CD2C748D871C}|CHBHTH\\CHBHTH.csproj|D:\\Ki 6\\Application Development\\du an cua thay thanh\\CHBHTH\\CHBHTH\\chbhth\\views\\sanpham\\alienware.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{617EC3CF-AD6E-454D-AFD7-CD2C748D871C}|CHBHTH\\CHBHTH.csproj|solutionrelative:chbhth\\views\\sanpham\\alienware.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{617EC3CF-AD6E-454D-AFD7-CD2C748D871C}|CHBHTH\\CHBHTH.csproj|D:\\Ki 6\\Application Development\\du an cua thay thanh\\CHBHTH\\CHBHTH\\chbhth\\views\\donhangs\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{617EC3CF-AD6E-454D-AFD7-CD2C748D871C}|CHBHTH\\CHBHTH.csproj|solutionrelative:chbhth\\views\\donhangs\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{617EC3CF-AD6E-454D-AFD7-CD2C748D871C}|CHBHTH\\CHBHTH.csproj|D:\\Ki 6\\Application Development\\du an cua thay thanh\\CHBHTH\\CHBHTH\\chbhth\\controllers\\giohangcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{617EC3CF-AD6E-454D-AFD7-CD2C748D871C}|CHBHTH\\CHBHTH.csproj|solutionrelative:chbhth\\controllers\\giohangcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{617EC3CF-AD6E-454D-AFD7-CD2C748D871C}|CHBHTH\\CHBHTH.csproj|D:\\Ki 6\\Application Development\\du an cua thay thanh\\CHBHTH\\CHBHTH\\chbhth\\controllers\\danhmuccontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{617EC3CF-AD6E-454D-AFD7-CD2C748D871C}|CHBHTH\\CHBHTH.csproj|solutionrelative:chbhth\\controllers\\danhmuccontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{617EC3CF-AD6E-454D-AFD7-CD2C748D871C}|CHBHTH\\CHBHTH.csproj|D:\\Ki 6\\Application Development\\du an cua thay thanh\\CHBHTH\\CHBHTH\\chbhth\\views\\sanpham\\dauanpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{617EC3CF-AD6E-454D-AFD7-CD2C748D871C}|CHBHTH\\CHBHTH.csproj|solutionrelative:chbhth\\views\\sanpham\\dauanpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{617EC3CF-AD6E-454D-AFD7-CD2C748D871C}|CHBHTH\\CHBHTH.csproj|D:\\Ki 6\\Application Development\\du an cua thay thanh\\CHBHTH\\CHBHTH\\chbhth\\views\\sanpham\\suapartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{617EC3CF-AD6E-454D-AFD7-CD2C748D871C}|CHBHTH\\CHBHTH.csproj|solutionrelative:chbhth\\views\\sanpham\\suapartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{617EC3CF-AD6E-454D-AFD7-CD2C748D871C}|CHBHTH\\CHBHTH.csproj|D:\\Ki 6\\Application Development\\du an cua thay thanh\\CHBHTH\\CHBHTH\\chbhth\\views\\sanpham\\raupartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{617EC3CF-AD6E-454D-AFD7-CD2C748D871C}|CHBHTH\\CHBHTH.csproj|solutionrelative:chbhth\\views\\sanpham\\raupartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{617EC3CF-AD6E-454D-AFD7-CD2C748D871C}|CHBHTH\\CHBHTH.csproj|D:\\Ki 6\\Application Development\\du an cua thay thanh\\CHBHTH\\CHBHTH\\chbhth\\views\\sanpham\\xemchitietdanhmuc.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{617EC3CF-AD6E-454D-AFD7-CD2C748D871C}|CHBHTH\\CHBHTH.csproj|solutionrelative:chbhth\\views\\sanpham\\xemchitietdanhmuc.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{617EC3CF-AD6E-454D-AFD7-CD2C748D871C}|CHBHTH\\CHBHTH.csproj|D:\\Ki 6\\Application Development\\du an cua thay thanh\\CHBHTH\\CHBHTH\\chbhth\\views\\sanpham\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{617EC3CF-AD6E-454D-AFD7-CD2C748D871C}|CHBHTH\\CHBHTH.csproj|solutionrelative:chbhth\\views\\sanpham\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{617EC3CF-AD6E-454D-AFD7-CD2C748D871C}|CHBHTH\\CHBHTH.csproj|D:\\Ki 6\\Application Development\\du an cua thay thanh\\CHBHTH\\CHBHTH\\chbhth\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{617EC3CF-AD6E-454D-AFD7-CD2C748D871C}|CHBHTH\\CHBHTH.csproj|solutionrelative:chbhth\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{617EC3CF-AD6E-454D-AFD7-CD2C748D871C}|CHBHTH\\CHBHTH.csproj|D:\\Ki 6\\Application Development\\du an cua thay thanh\\CHBHTH\\CHBHTH\\chbhth\\views\\home\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{617EC3CF-AD6E-454D-AFD7-CD2C748D871C}|CHBHTH\\CHBHTH.csproj|solutionrelative:chbhth\\views\\home\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{617EC3CF-AD6E-454D-AFD7-CD2C748D871C}|CHBHTH\\CHBHTH.csproj|D:\\Ki 6\\Application Development\\du an cua thay thanh\\CHBHTH\\CHBHTH\\chbhth\\views\\giohang\\thanhtoandonhang.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{617EC3CF-AD6E-454D-AFD7-CD2C748D871C}|CHBHTH\\CHBHTH.csproj|solutionrelative:chbhth\\views\\giohang\\thanhtoandonhang.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{617EC3CF-AD6E-454D-AFD7-CD2C748D871C}|CHBHTH\\CHBHTH.csproj|D:\\Ki 6\\Application Development\\du an cua thay thanh\\CHBHTH\\CHBHTH\\chbhth\\views\\giohang\\suagiohang.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{617EC3CF-AD6E-454D-AFD7-CD2C748D871C}|CHBHTH\\CHBHTH.csproj|solutionrelative:chbhth\\views\\giohang\\suagiohang.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{617EC3CF-AD6E-454D-AFD7-CD2C748D871C}|CHBHTH\\CHBHTH.csproj|D:\\Ki 6\\Application Development\\du an cua thay thanh\\CHBHTH\\CHBHTH\\chbhth\\views\\giohang\\giohangpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{617EC3CF-AD6E-454D-AFD7-CD2C748D871C}|CHBHTH\\CHBHTH.csproj|solutionrelative:chbhth\\views\\giohang\\giohangpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{617EC3CF-AD6E-454D-AFD7-CD2C748D871C}|CHBHTH\\CHBHTH.csproj|D:\\Ki 6\\Application Development\\du an cua thay thanh\\CHBHTH\\CHBHTH\\chbhth\\views\\giohang\\giohang.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{617EC3CF-AD6E-454D-AFD7-CD2C748D871C}|CHBHTH\\CHBHTH.csproj|solutionrelative:chbhth\\views\\giohang\\giohang.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{617EC3CF-AD6E-454D-AFD7-CD2C748D871C}|CHBHTH\\CHBHTH.csproj|D:\\Ki 6\\Application Development\\du an cua thay thanh\\CHBHTH\\CHBHTH\\chbhth\\views\\donhangs\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{617EC3CF-AD6E-454D-AFD7-CD2C748D871C}|CHBHTH\\CHBHTH.csproj|solutionrelative:chbhth\\views\\donhangs\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{617EC3CF-AD6E-454D-AFD7-CD2C748D871C}|CHBHTH\\CHBHTH.csproj|D:\\Ki 6\\Application Development\\du an cua thay thanh\\CHBHTH\\CHBHTH\\chbhth\\views\\danhmuc\\danhmucpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{617EC3CF-AD6E-454D-AFD7-CD2C748D871C}|CHBHTH\\CHBHTH.csproj|solutionrelative:chbhth\\views\\danhmuc\\danhmucpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{617EC3CF-AD6E-454D-AFD7-CD2C748D871C}|CHBHTH\\CHBHTH.csproj|D:\\Ki 6\\Application Development\\du an cua thay thanh\\CHBHTH\\CHBHTH\\chbhth\\views\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{617EC3CF-AD6E-454D-AFD7-CD2C748D871C}|CHBHTH\\CHBHTH.csproj|solutionrelative:chbhth\\views\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{617EC3CF-AD6E-454D-AFD7-CD2C748D871C}|CHBHTH\\CHBHTH.csproj|D:\\Ki 6\\Application Development\\du an cua thay thanh\\CHBHTH\\CHBHTH\\chbhth\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{617EC3CF-AD6E-454D-AFD7-CD2C748D871C}|CHBHTH\\CHBHTH.csproj|solutionrelative:chbhth\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{617EC3CF-AD6E-454D-AFD7-CD2C748D871C}|CHBHTH\\CHBHTH.csproj|D:\\Ki 6\\Application Development\\du an cua thay thanh\\CHBHTH\\CHBHTH\\chbhth\\areas\\admin\\adminarearegistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{617EC3CF-AD6E-454D-AFD7-CD2C748D871C}|CHBHTH\\CHBHTH.csproj|solutionrelative:chbhth\\areas\\admin\\adminarearegistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{617EC3CF-AD6E-454D-AFD7-CD2C748D871C}|CHBHTH\\CHBHTH.csproj|D:\\Ki 6\\Application Development\\du an cua thay thanh\\CHBHTH\\CHBHTH\\chbhth\\images\\banner-xakho.jpg||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{617EC3CF-AD6E-454D-AFD7-CD2C748D871C}|CHBHTH\\CHBHTH.csproj|solutionrelative:chbhth\\images\\banner-xakho.jpg||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{617EC3CF-AD6E-454D-AFD7-CD2C748D871C}|CHBHTH\\CHBHTH.csproj|D:\\Ki 6\\Application Development\\du an cua thay thanh\\CHBHTH\\CHBHTH\\chbhth\\models\\chitietdonhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{617EC3CF-AD6E-454D-AFD7-CD2C748D871C}|CHBHTH\\CHBHTH.csproj|solutionrelative:chbhth\\models\\chitietdonhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{617EC3CF-AD6E-454D-AFD7-CD2C748D871C}|CHBHTH\\CHBHTH.csproj|D:\\Ki 6\\Application Development\\du an cua thay thanh\\CHBHTH\\CHBHTH\\chbhth\\areas\\admin\\views\\sanphams\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{617EC3CF-AD6E-454D-AFD7-CD2C748D871C}|CHBHTH\\CHBHTH.csproj|solutionrelative:chbhth\\areas\\admin\\views\\sanphams\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{617EC3CF-AD6E-454D-AFD7-CD2C748D871C}|CHBHTH\\CHBHTH.csproj|D:\\Ki 6\\Application Development\\du an cua thay thanh\\CHBHTH\\CHBHTH\\chbhth\\areas\\admin\\views\\sanphams\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{617EC3CF-AD6E-454D-AFD7-CD2C748D871C}|CHBHTH\\CHBHTH.csproj|solutionrelative:chbhth\\areas\\admin\\views\\sanphams\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{617EC3CF-AD6E-454D-AFD7-CD2C748D871C}|CHBHTH\\CHBHTH.csproj|D:\\Ki 6\\Application Development\\du an cua thay thanh\\CHBHTH\\CHBHTH\\chbhth\\models\\sanpham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{617EC3CF-AD6E-454D-AFD7-CD2C748D871C}|CHBHTH\\CHBHTH.csproj|solutionrelative:chbhth\\models\\sanpham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{617EC3CF-AD6E-454D-AFD7-CD2C748D871C}|CHBHTH\\CHBHTH.csproj|D:\\Ki 6\\Application Development\\du an cua thay thanh\\CHBHTH\\CHBHTH\\chbhth\\models\\donhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{617EC3CF-AD6E-454D-AFD7-CD2C748D871C}|CHBHTH\\CHBHTH.csproj|solutionrelative:chbhth\\models\\donhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{617EC3CF-AD6E-454D-AFD7-CD2C748D871C}|CHBHTH\\CHBHTH.csproj|D:\\Ki 6\\Application Development\\du an cua thay thanh\\CHBHTH\\CHBHTH\\chbhth\\areas\\admin\\views\\donhangs\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{617EC3CF-AD6E-454D-AFD7-CD2C748D871C}|CHBHTH\\CHBHTH.csproj|solutionrelative:chbhth\\areas\\admin\\views\\donhangs\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{617EC3CF-AD6E-454D-AFD7-CD2C748D871C}|CHBHTH\\CHBHTH.csproj|D:\\Ki 6\\Application Development\\du an cua thay thanh\\CHBHTH\\CHBHTH\\chbhth\\areas\\admin\\views\\chitietdonhangs\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{617EC3CF-AD6E-454D-AFD7-CD2C748D871C}|CHBHTH\\CHBHTH.csproj|solutionrelative:chbhth\\areas\\admin\\views\\chitietdonhangs\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{617EC3CF-AD6E-454D-AFD7-CD2C748D871C}|CHBHTH\\CHBHTH.csproj|D:\\Ki 6\\Application Development\\du an cua thay thanh\\CHBHTH\\CHBHTH\\chbhth\\controllers\\tintuccontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{617EC3CF-AD6E-454D-AFD7-CD2C748D871C}|CHBHTH\\CHBHTH.csproj|solutionrelative:chbhth\\controllers\\tintuccontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{617EC3CF-AD6E-454D-AFD7-CD2C748D871C}|CHBHTH\\CHBHTH.csproj|D:\\Ki 6\\Application Development\\du an cua thay thanh\\CHBHTH\\CHBHTH\\chbhth\\views\\home\\js\\scripts.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{617EC3CF-AD6E-454D-AFD7-CD2C748D871C}|CHBHTH\\CHBHTH.csproj|solutionrelative:chbhth\\views\\home\\js\\scripts.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{617EC3CF-AD6E-454D-AFD7-CD2C748D871C}|CHBHTH\\CHBHTH.csproj|D:\\Ki 6\\Application Development\\du an cua thay thanh\\CHBHTH\\CHBHTH\\chbhth\\views\\home\\css\\styles.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{617EC3CF-AD6E-454D-AFD7-CD2C748D871C}|CHBHTH\\CHBHTH.csproj|solutionrelative:chbhth\\views\\home\\css\\styles.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{617EC3CF-AD6E-454D-AFD7-CD2C748D871C}|CHBHTH\\CHBHTH.csproj|D:\\Ki 6\\Application Development\\du an cua thay thanh\\CHBHTH\\CHBHTH\\chbhth\\views\\home\\assets\\favicon.ico||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{617EC3CF-AD6E-454D-AFD7-CD2C748D871C}|CHBHTH\\CHBHTH.csproj|solutionrelative:chbhth\\views\\home\\assets\\favicon.ico||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{617EC3CF-AD6E-454D-AFD7-CD2C748D871C}|CHBHTH\\CHBHTH.csproj|D:\\Ki 6\\Application Development\\du an cua thay thanh\\CHBHTH\\CHBHTH\\chbhth\\images\\dauan-3.png||{25834150-CD7E-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{617EC3CF-AD6E-454D-AFD7-CD2C748D871C}|CHBHTH\\CHBHTH.csproj|solutionrelative:chbhth\\images\\dauan-3.png||{25834150-CD7E-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{617EC3CF-AD6E-454D-AFD7-CD2C748D871C}|CHBHTH\\CHBHTH.csproj|D:\\Ki 6\\Application Development\\du an cua thay thanh\\CHBHTH\\CHBHTH\\chbhth\\images\\dauan-2.png||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{617EC3CF-AD6E-454D-AFD7-CD2C748D871C}|CHBHTH\\CHBHTH.csproj|solutionrelative:chbhth\\images\\dauan-2.png||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{617EC3CF-AD6E-454D-AFD7-CD2C748D871C}|CHBHTH\\CHBHTH.csproj|D:\\Ki 6\\Application Development\\du an cua thay thanh\\CHBHTH\\CHBHTH\\chbhth\\images\\dauan-1.jpg||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{617EC3CF-AD6E-454D-AFD7-CD2C748D871C}|CHBHTH\\CHBHTH.csproj|solutionrelative:chbhth\\images\\dauan-1.jpg||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{617EC3CF-AD6E-454D-AFD7-CD2C748D871C}|CHBHTH\\CHBHTH.csproj|D:\\Ki 6\\Application Development\\du an cua thay thanh\\CHBHTH\\CHBHTH\\chbhth\\views\\tintuc\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{617EC3CF-AD6E-454D-AFD7-CD2C748D871C}|CHBHTH\\CHBHTH.csproj|solutionrelative:chbhth\\views\\tintuc\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{617EC3CF-AD6E-454D-AFD7-CD2C748D871C}|CHBHTH\\CHBHTH.csproj|D:\\Ki 6\\Application Development\\du an cua thay thanh\\CHBHTH\\CHBHTH\\chbhth\\areas\\admin\\views\\chitietdonhangs\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{617EC3CF-AD6E-454D-AFD7-CD2C748D871C}|CHBHTH\\CHBHTH.csproj|solutionrelative:chbhth\\areas\\admin\\views\\chitietdonhangs\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{617EC3CF-AD6E-454D-AFD7-CD2C748D871C}|CHBHTH\\CHBHTH.csproj|D:\\Ki 6\\Application Development\\du an cua thay thanh\\CHBHTH\\CHBHTH\\chbhth\\areas\\admin\\views\\chitietdonhangs\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{617EC3CF-AD6E-454D-AFD7-CD2C748D871C}|CHBHTH\\CHBHTH.csproj|solutionrelative:chbhth\\areas\\admin\\views\\chitietdonhangs\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{617EC3CF-AD6E-454D-AFD7-CD2C748D871C}|CHBHTH\\CHBHTH.csproj|D:\\Ki 6\\Application Development\\du an cua thay thanh\\CHBHTH\\CHBHTH\\chbhth\\areas\\admin\\views\\chitietdonhangs\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{617EC3CF-AD6E-454D-AFD7-CD2C748D871C}|CHBHTH\\CHBHTH.csproj|solutionrelative:chbhth\\areas\\admin\\views\\chitietdonhangs\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{617EC3CF-AD6E-454D-AFD7-CD2C748D871C}|CHBHTH\\CHBHTH.csproj|D:\\Ki 6\\Application Development\\du an cua thay thanh\\CHBHTH\\CHBHTH\\chbhth\\areas\\admin\\views\\chitietdonhangs\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{617EC3CF-AD6E-454D-AFD7-CD2C748D871C}|CHBHTH\\CHBHTH.csproj|solutionrelative:chbhth\\areas\\admin\\views\\chitietdonhangs\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{617EC3CF-AD6E-454D-AFD7-CD2C748D871C}|CHBHTH\\CHBHTH.csproj|D:\\Ki 6\\Application Development\\du an cua thay thanh\\CHBHTH\\CHBHTH\\chbhth\\areas\\admin\\views\\tintucs\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{617EC3CF-AD6E-454D-AFD7-CD2C748D871C}|CHBHTH\\CHBHTH.csproj|solutionrelative:chbhth\\areas\\admin\\views\\tintucs\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{617EC3CF-AD6E-454D-AFD7-CD2C748D871C}|CHBHTH\\CHBHTH.csproj|D:\\Ki 6\\Application Development\\du an cua thay thanh\\CHBHTH\\CHBHTH\\chbhth\\models\\tintuc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{617EC3CF-AD6E-454D-AFD7-CD2C748D871C}|CHBHTH\\CHBHTH.csproj|solutionrelative:chbhth\\models\\tintuc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{617EC3CF-AD6E-454D-AFD7-CD2C748D871C}|CHBHTH\\CHBHTH.csproj|D:\\Ki 6\\Application Development\\du an cua thay thanh\\CHBHTH\\CHBHTH\\chbhth\\models\\thongkes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{617EC3CF-AD6E-454D-AFD7-CD2C748D871C}|CHBHTH\\CHBHTH.csproj|solutionrelative:chbhth\\models\\thongkes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{617EC3CF-AD6E-454D-AFD7-CD2C748D871C}|CHBHTH\\CHBHTH.csproj|D:\\Ki 6\\Application Development\\du an cua thay thanh\\CHBHTH\\CHBHTH\\chbhth\\models\\qlbanhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{617EC3CF-AD6E-454D-AFD7-CD2C748D871C}|CHBHTH\\CHBHTH.csproj|solutionrelative:chbhth\\models\\qlbanhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{617EC3CF-AD6E-454D-AFD7-CD2C748D871C}|CHBHTH\\CHBHTH.csproj|D:\\Ki 6\\Application Development\\du an cua thay thanh\\CHBHTH\\CHBHTH\\chbhth\\areas\\admin\\views\\donhangs\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{617EC3CF-AD6E-454D-AFD7-CD2C748D871C}|CHBHTH\\CHBHTH.csproj|solutionrelative:chbhth\\areas\\admin\\views\\donhangs\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{617EC3CF-AD6E-454D-AFD7-CD2C748D871C}|CHBHTH\\CHBHTH.csproj|D:\\Ki 6\\Application Development\\du an cua thay thanh\\CHBHTH\\CHBHTH\\chbhth\\areas\\admin\\views\\thongkes\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{617EC3CF-AD6E-454D-AFD7-CD2C748D871C}|CHBHTH\\CHBHTH.csproj|solutionrelative:chbhth\\areas\\admin\\views\\thongkes\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Ki 6\\Application Development\\du an cua thay thanh\\CHBHTH\\CHBHTH\\CHBHTH\\Areas\\Admin\\Views\\NhaCungCaps\\Index.cshtml",
+              "RelativeDocumentMoniker": "CHBHTH\\Areas\\Admin\\Views\\NhaCungCaps\\Index.cshtml",
+              "ToolTip": "D:\\Ki 6\\Application Development\\du an cua thay thanh\\CHBHTH\\CHBHTH\\CHBHTH\\Areas\\Admin\\Views\\NhaCungCaps\\Index.cshtml",
+              "RelativeToolTip": "CHBHTH\\Areas\\Admin\\Views\\NhaCungCaps\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-02T03:45:42.52Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\Ki 6\\Application Development\\du an cua thay thanh\\CHBHTH\\CHBHTH\\CHBHTH\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "CHBHTH\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\Ki 6\\Application Development\\du an cua thay thanh\\CHBHTH\\CHBHTH\\CHBHTH\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "CHBHTH\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-02T03:45:49.928Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_LayoutAdmin.cshtml",
+              "DocumentMoniker": "D:\\Ki 6\\Application Development\\du an cua thay thanh\\CHBHTH\\CHBHTH\\CHBHTH\\Areas\\Admin\\Views\\Shared\\_LayoutAdmin.cshtml",
+              "RelativeDocumentMoniker": "CHBHTH\\Areas\\Admin\\Views\\Shared\\_LayoutAdmin.cshtml",
+              "ToolTip": "D:\\Ki 6\\Application Development\\du an cua thay thanh\\CHBHTH\\CHBHTH\\CHBHTH\\Areas\\Admin\\Views\\Shared\\_LayoutAdmin.cshtml",
+              "RelativeToolTip": "CHBHTH\\Areas\\Admin\\Views\\Shared\\_LayoutAdmin.cshtml",
+              "ViewState": "AQIAADMAAAAAAAAAAAAAABoAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-02T03:41:25.979Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Ki 6\\Application Development\\du an cua thay thanh\\CHBHTH\\CHBHTH\\CHBHTH\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "CHBHTH\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\Ki 6\\Application Development\\du an cua thay thanh\\CHBHTH\\CHBHTH\\CHBHTH\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "CHBHTH\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-26T02:04:59.247Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "_LayoutClient2.cshtml",
+              "DocumentMoniker": "D:\\Ki 6\\Application Development\\du an cua thay thanh\\CHBHTH\\CHBHTH\\CHBHTH\\Views\\Shared\\_LayoutClient2.cshtml",
+              "RelativeDocumentMoniker": "CHBHTH\\Views\\Shared\\_LayoutClient2.cshtml",
+              "ToolTip": "D:\\Ki 6\\Application Development\\du an cua thay thanh\\CHBHTH\\CHBHTH\\CHBHTH\\Views\\Shared\\_LayoutClient2.cshtml",
+              "RelativeToolTip": "CHBHTH\\Views\\Shared\\_LayoutClient2.cshtml",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAUwBwAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-29T06:34:10.752Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\Ki 6\\Application Development\\du an cua thay thanh\\CHBHTH\\CHBHTH\\CHBHTH\\Areas\\Admin\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "CHBHTH\\Areas\\Admin\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\Ki 6\\Application Development\\du an cua thay thanh\\CHBHTH\\CHBHTH\\CHBHTH\\Areas\\Admin\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "CHBHTH\\Areas\\Admin\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABIAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-26T01:26:48.049Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "D:\\Ki 6\\Application Development\\du an cua thay thanh\\CHBHTH\\CHBHTH\\CHBHTH\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "CHBHTH\\Controllers\\UserController.cs",
+              "ToolTip": "D:\\Ki 6\\Application Development\\du an cua thay thanh\\CHBHTH\\CHBHTH\\CHBHTH\\Controllers\\UserController.cs",
+              "RelativeToolTip": "CHBHTH\\Controllers\\UserController.cs",
+              "ViewState": "AQIAAEoAAAAAAAAAAAAuwFQAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-26T01:02:03.867Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ChiTietDonHangsController.cs",
+              "DocumentMoniker": "D:\\Ki 6\\Application Development\\du an cua thay thanh\\CHBHTH\\CHBHTH\\CHBHTH\\Areas\\Admin\\Controllers\\ChiTietDonHangsController.cs",
+              "RelativeDocumentMoniker": "CHBHTH\\Areas\\Admin\\Controllers\\ChiTietDonHangsController.cs",
+              "ToolTip": "D:\\Ki 6\\Application Development\\du an cua thay thanh\\CHBHTH\\CHBHTH\\CHBHTH\\Areas\\Admin\\Controllers\\ChiTietDonHangsController.cs",
+              "RelativeToolTip": "CHBHTH\\Areas\\Admin\\Controllers\\ChiTietDonHangsController.cs",
+              "ViewState": "AQIAAHsAAAAAAAAAAAAuwBUAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-26T01:27:37.716Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Ki 6\\Application Development\\du an cua thay thanh\\CHBHTH\\CHBHTH\\CHBHTH\\Areas\\Admin\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "CHBHTH\\Areas\\Admin\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\Ki 6\\Application Development\\du an cua thay thanh\\CHBHTH\\CHBHTH\\CHBHTH\\Areas\\Admin\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "CHBHTH\\Areas\\Admin\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-26T01:53:58.162Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "NhaCungCapsController.cs",
+              "DocumentMoniker": "D:\\Ki 6\\Application Development\\du an cua thay thanh\\CHBHTH\\CHBHTH\\CHBHTH\\Areas\\Admin\\Controllers\\NhaCungCapsController.cs",
+              "RelativeDocumentMoniker": "CHBHTH\\Areas\\Admin\\Controllers\\NhaCungCapsController.cs",
+              "ToolTip": "D:\\Ki 6\\Application Development\\du an cua thay thanh\\CHBHTH\\CHBHTH\\CHBHTH\\Areas\\Admin\\Controllers\\NhaCungCapsController.cs",
+              "RelativeToolTip": "CHBHTH\\Areas\\Admin\\Controllers\\NhaCungCapsController.cs",
+              "ViewState": "AQIAAF8AAAAAAAAAAAAAwBQAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-26T01:27:17.437Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\Ki 6\\Application Development\\du an cua thay thanh\\CHBHTH\\CHBHTH\\CHBHTH\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "CHBHTH\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\Ki 6\\Application Development\\du an cua thay thanh\\CHBHTH\\CHBHTH\\CHBHTH\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "CHBHTH\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAACQAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-26T01:50:09.435Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "TinTucsController.cs",
+              "DocumentMoniker": "D:\\Ki 6\\Application Development\\du an cua thay thanh\\CHBHTH\\CHBHTH\\CHBHTH\\Areas\\Admin\\Controllers\\TinTucsController.cs",
+              "RelativeDocumentMoniker": "CHBHTH\\Areas\\Admin\\Controllers\\TinTucsController.cs",
+              "ToolTip": "D:\\Ki 6\\Application Development\\du an cua thay thanh\\CHBHTH\\CHBHTH\\CHBHTH\\Areas\\Admin\\Controllers\\TinTucsController.cs",
+              "RelativeToolTip": "CHBHTH\\Areas\\Admin\\Controllers\\TinTucsController.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAuwE8AAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-26T01:28:40.139Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ThongkesController.cs",
+              "DocumentMoniker": "D:\\Ki 6\\Application Development\\du an cua thay thanh\\CHBHTH\\CHBHTH\\CHBHTH\\Areas\\Admin\\Controllers\\ThongkesController.cs",
+              "RelativeDocumentMoniker": "CHBHTH\\Areas\\Admin\\Controllers\\ThongkesController.cs",
+              "ToolTip": "D:\\Ki 6\\Application Development\\du an cua thay thanh\\CHBHTH\\CHBHTH\\CHBHTH\\Areas\\Admin\\Controllers\\ThongkesController.cs",
+              "RelativeToolTip": "CHBHTH\\Areas\\Admin\\Controllers\\ThongkesController.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAAABEAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-26T01:02:03.8Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "TaiKhoansController.cs",
+              "DocumentMoniker": "D:\\Ki 6\\Application Development\\du an cua thay thanh\\CHBHTH\\CHBHTH\\CHBHTH\\Areas\\Admin\\Controllers\\TaiKhoansController.cs",
+              "RelativeDocumentMoniker": "CHBHTH\\Areas\\Admin\\Controllers\\TaiKhoansController.cs",
+              "ToolTip": "D:\\Ki 6\\Application Development\\du an cua thay thanh\\CHBHTH\\CHBHTH\\CHBHTH\\Areas\\Admin\\Controllers\\TaiKhoansController.cs",
+              "RelativeToolTip": "CHBHTH\\Areas\\Admin\\Controllers\\TaiKhoansController.cs",
+              "ViewState": "AQIAAHcAAAAAAAAAAAAAABUAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-26T01:02:03.629Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "SanPhamsController.cs",
+              "DocumentMoniker": "D:\\Ki 6\\Application Development\\du an cua thay thanh\\CHBHTH\\CHBHTH\\CHBHTH\\Areas\\Admin\\Controllers\\SanPhamsController.cs",
+              "RelativeDocumentMoniker": "CHBHTH\\Areas\\Admin\\Controllers\\SanPhamsController.cs",
+              "ToolTip": "D:\\Ki 6\\Application Development\\du an cua thay thanh\\CHBHTH\\CHBHTH\\CHBHTH\\Areas\\Admin\\Controllers\\SanPhamsController.cs",
+              "RelativeToolTip": "CHBHTH\\Areas\\Admin\\Controllers\\SanPhamsController.cs",
+              "ViewState": "AQIAAH4AAAAAAAAAAAAAwGEAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-26T01:02:03.873Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "PhanQuyensController.cs",
+              "DocumentMoniker": "D:\\Ki 6\\Application Development\\du an cua thay thanh\\CHBHTH\\CHBHTH\\CHBHTH\\Areas\\Admin\\Controllers\\PhanQuyensController.cs",
+              "RelativeDocumentMoniker": "CHBHTH\\Areas\\Admin\\Controllers\\PhanQuyensController.cs",
+              "ToolTip": "D:\\Ki 6\\Application Development\\du an cua thay thanh\\CHBHTH\\CHBHTH\\CHBHTH\\Areas\\Admin\\Controllers\\PhanQuyensController.cs",
+              "RelativeToolTip": "CHBHTH\\Areas\\Admin\\Controllers\\PhanQuyensController.cs",
+              "ViewState": "AQIAAHEAAAAAAAAAAAAAABQAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-26T01:28:27.478Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "LoaiHangsController.cs",
+              "DocumentMoniker": "D:\\Ki 6\\Application Development\\du an cua thay thanh\\CHBHTH\\CHBHTH\\CHBHTH\\Areas\\Admin\\Controllers\\LoaiHangsController.cs",
+              "RelativeDocumentMoniker": "CHBHTH\\Areas\\Admin\\Controllers\\LoaiHangsController.cs",
+              "ToolTip": "D:\\Ki 6\\Application Development\\du an cua thay thanh\\CHBHTH\\CHBHTH\\CHBHTH\\Areas\\Admin\\Controllers\\LoaiHangsController.cs",
+              "RelativeToolTip": "CHBHTH\\Areas\\Admin\\Controllers\\LoaiHangsController.cs",
+              "ViewState": "AQIAAH4AAAAAAAAAAAAQwBQAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-26T01:27:13.702Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "DonHangsController.cs",
+              "DocumentMoniker": "D:\\Ki 6\\Application Development\\du an cua thay thanh\\CHBHTH\\CHBHTH\\CHBHTH\\Areas\\Admin\\Controllers\\DonHangsController.cs",
+              "RelativeDocumentMoniker": "CHBHTH\\Areas\\Admin\\Controllers\\DonHangsController.cs",
+              "ToolTip": "D:\\Ki 6\\Application Development\\du an cua thay thanh\\CHBHTH\\CHBHTH\\CHBHTH\\Areas\\Admin\\Controllers\\DonHangsController.cs",
+              "RelativeToolTip": "CHBHTH\\Areas\\Admin\\Controllers\\DonHangsController.cs",
+              "ViewState": "AQIAAJAAAAAAAAAAAAAAwBUAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-26T01:02:03.664Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "DonhangsController.cs",
+              "DocumentMoniker": "D:\\Ki 6\\Application Development\\du an cua thay thanh\\CHBHTH\\CHBHTH\\CHBHTH\\Controllers\\DonhangsController.cs",
+              "RelativeDocumentMoniker": "CHBHTH\\Controllers\\DonhangsController.cs",
+              "ToolTip": "D:\\Ki 6\\Application Development\\du an cua thay thanh\\CHBHTH\\CHBHTH\\CHBHTH\\Controllers\\DonhangsController.cs",
+              "RelativeToolTip": "CHBHTH\\Controllers\\DonhangsController.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-26T01:29:15.238Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Web.config",
+              "DocumentMoniker": "D:\\Ki 6\\Application Development\\du an cua thay thanh\\CHBHTH\\CHBHTH\\CHBHTH\\Web.config",
+              "RelativeDocumentMoniker": "CHBHTH\\Web.config",
+              "ToolTip": "D:\\Ki 6\\Application Development\\du an cua thay thanh\\CHBHTH\\CHBHTH\\CHBHTH\\Web.config",
+              "RelativeToolTip": "CHBHTH\\Web.config",
+              "ViewState": "AQIAADcAAAAAAAAAAAAkwEQAAACZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-03-26T01:19:34.32Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "sanphamController.cs",
+              "DocumentMoniker": "D:\\Ki 6\\Application Development\\du an cua thay thanh\\CHBHTH\\CHBHTH\\CHBHTH\\Controllers\\sanphamController.cs",
+              "RelativeDocumentMoniker": "CHBHTH\\Controllers\\sanphamController.cs",
+              "ToolTip": "D:\\Ki 6\\Application Development\\du an cua thay thanh\\CHBHTH\\CHBHTH\\CHBHTH\\Controllers\\sanphamController.cs",
+              "RelativeToolTip": "CHBHTH\\Controllers\\sanphamController.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAAwCQAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-26T01:02:03.665Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ALIENWARE.cshtml",
+              "DocumentMoniker": "D:\\Ki 6\\Application Development\\du an cua thay thanh\\CHBHTH\\CHBHTH\\CHBHTH\\Views\\sanpham\\ALIENWARE.cshtml",
+              "RelativeDocumentMoniker": "CHBHTH\\Views\\sanpham\\ALIENWARE.cshtml",
+              "ToolTip": "D:\\Ki 6\\Application Development\\du an cua thay thanh\\CHBHTH\\CHBHTH\\CHBHTH\\Views\\sanpham\\ALIENWARE.cshtml",
+              "RelativeToolTip": "CHBHTH\\Views\\sanpham\\ALIENWARE.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-01T22:00:30.257Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Ki 6\\Application Development\\du an cua thay thanh\\CHBHTH\\CHBHTH\\CHBHTH\\Views\\Donhangs\\Index.cshtml",
+              "RelativeDocumentMoniker": "CHBHTH\\Views\\Donhangs\\Index.cshtml",
+              "ToolTip": "D:\\Ki 6\\Application Development\\du an cua thay thanh\\CHBHTH\\CHBHTH\\CHBHTH\\Views\\Donhangs\\Index.cshtml",
+              "RelativeToolTip": "CHBHTH\\Views\\Donhangs\\Index.cshtml",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-26T01:52:41.434Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "GioHangController.cs",
+              "DocumentMoniker": "D:\\Ki 6\\Application Development\\du an cua thay thanh\\CHBHTH\\CHBHTH\\CHBHTH\\Controllers\\GioHangController.cs",
+              "RelativeDocumentMoniker": "CHBHTH\\Controllers\\GioHangController.cs",
+              "ToolTip": "D:\\Ki 6\\Application Development\\du an cua thay thanh\\CHBHTH\\CHBHTH\\CHBHTH\\Controllers\\GioHangController.cs",
+              "RelativeToolTip": "CHBHTH\\Controllers\\GioHangController.cs",
+              "ViewState": "AQIAAJwAAAAAAAAAAAAAAJwAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-26T01:02:03.869Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "danhmucController.cs",
+              "DocumentMoniker": "D:\\Ki 6\\Application Development\\du an cua thay thanh\\CHBHTH\\CHBHTH\\CHBHTH\\Controllers\\danhmucController.cs",
+              "RelativeDocumentMoniker": "CHBHTH\\Controllers\\danhmucController.cs",
+              "ToolTip": "D:\\Ki 6\\Application Development\\du an cua thay thanh\\CHBHTH\\CHBHTH\\CHBHTH\\Controllers\\danhmucController.cs",
+              "RelativeToolTip": "CHBHTH\\Controllers\\danhmucController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-26T01:02:03.666Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "dauanpartial.cshtml",
+              "DocumentMoniker": "D:\\Ki 6\\Application Development\\du an cua thay thanh\\CHBHTH\\CHBHTH\\CHBHTH\\Views\\sanpham\\dauanpartial.cshtml",
+              "RelativeDocumentMoniker": "CHBHTH\\Views\\sanpham\\dauanpartial.cshtml",
+              "ToolTip": "D:\\Ki 6\\Application Development\\du an cua thay thanh\\CHBHTH\\CHBHTH\\CHBHTH\\Views\\sanpham\\dauanpartial.cshtml",
+              "RelativeToolTip": "CHBHTH\\Views\\sanpham\\dauanpartial.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-26T01:02:03.875Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "suapartial.cshtml",
+              "DocumentMoniker": "D:\\Ki 6\\Application Development\\du an cua thay thanh\\CHBHTH\\CHBHTH\\CHBHTH\\Views\\sanpham\\suapartial.cshtml",
+              "RelativeDocumentMoniker": "CHBHTH\\Views\\sanpham\\suapartial.cshtml",
+              "ToolTip": "D:\\Ki 6\\Application Development\\du an cua thay thanh\\CHBHTH\\CHBHTH\\CHBHTH\\Views\\sanpham\\suapartial.cshtml",
+              "RelativeToolTip": "CHBHTH\\Views\\sanpham\\suapartial.cshtml",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAAUAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-26T03:11:32.619Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "xemchitietdanhmuc.cshtml",
+              "DocumentMoniker": "D:\\Ki 6\\Application Development\\du an cua thay thanh\\CHBHTH\\CHBHTH\\CHBHTH\\Views\\sanpham\\xemchitietdanhmuc.cshtml",
+              "RelativeDocumentMoniker": "CHBHTH\\Views\\sanpham\\xemchitietdanhmuc.cshtml",
+              "ToolTip": "D:\\Ki 6\\Application Development\\du an cua thay thanh\\CHBHTH\\CHBHTH\\CHBHTH\\Views\\sanpham\\xemchitietdanhmuc.cshtml",
+              "RelativeToolTip": "CHBHTH\\Views\\sanpham\\xemchitietdanhmuc.cshtml",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-01T20:57:59.282Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "About.cshtml",
+              "DocumentMoniker": "D:\\Ki 6\\Application Development\\du an cua thay thanh\\CHBHTH\\CHBHTH\\CHBHTH\\Views\\Home\\About.cshtml",
+              "RelativeDocumentMoniker": "CHBHTH\\Views\\Home\\About.cshtml",
+              "ToolTip": "D:\\Ki 6\\Application Development\\du an cua thay thanh\\CHBHTH\\CHBHTH\\CHBHTH\\Views\\Home\\About.cshtml",
+              "RelativeToolTip": "CHBHTH\\Views\\Home\\About.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-26T02:04:51.824Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Contact.cshtml",
+              "DocumentMoniker": "D:\\Ki 6\\Application Development\\du an cua thay thanh\\CHBHTH\\CHBHTH\\CHBHTH\\Views\\Home\\Contact.cshtml",
+              "RelativeDocumentMoniker": "CHBHTH\\Views\\Home\\Contact.cshtml",
+              "ToolTip": "D:\\Ki 6\\Application Development\\du an cua thay thanh\\CHBHTH\\CHBHTH\\CHBHTH\\Views\\Home\\Contact.cshtml",
+              "RelativeToolTip": "CHBHTH\\Views\\Home\\Contact.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-26T02:04:54.944Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "raupartial.cshtml",
+              "DocumentMoniker": "D:\\Ki 6\\Application Development\\du an cua thay thanh\\CHBHTH\\CHBHTH\\CHBHTH\\Views\\sanpham\\raupartial.cshtml",
+              "RelativeDocumentMoniker": "CHBHTH\\Views\\sanpham\\raupartial.cshtml",
+              "ToolTip": "D:\\Ki 6\\Application Development\\du an cua thay thanh\\CHBHTH\\CHBHTH\\CHBHTH\\Views\\sanpham\\raupartial.cshtml",
+              "RelativeToolTip": "CHBHTH\\Views\\sanpham\\raupartial.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-26T02:05:10.308Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "ThanhToanDonHang.cshtml",
+              "DocumentMoniker": "D:\\Ki 6\\Application Development\\du an cua thay thanh\\CHBHTH\\CHBHTH\\CHBHTH\\Views\\GioHang\\ThanhToanDonHang.cshtml",
+              "RelativeDocumentMoniker": "CHBHTH\\Views\\GioHang\\ThanhToanDonHang.cshtml",
+              "ToolTip": "D:\\Ki 6\\Application Development\\du an cua thay thanh\\CHBHTH\\CHBHTH\\CHBHTH\\Views\\GioHang\\ThanhToanDonHang.cshtml",
+              "RelativeToolTip": "CHBHTH\\Views\\GioHang\\ThanhToanDonHang.cshtml",
+              "ViewState": "AQIAACoAAAAAAAAAAAAAAEQAAABiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-26T01:02:03.868Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Ki 6\\Application Development\\du an cua thay thanh\\CHBHTH\\CHBHTH\\CHBHTH\\Views\\sanpham\\Index.cshtml",
+              "RelativeDocumentMoniker": "CHBHTH\\Views\\sanpham\\Index.cshtml",
+              "ToolTip": "D:\\Ki 6\\Application Development\\du an cua thay thanh\\CHBHTH\\CHBHTH\\CHBHTH\\Views\\sanpham\\Index.cshtml",
+              "RelativeToolTip": "CHBHTH\\Views\\sanpham\\Index.cshtml",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-26T02:05:08.246Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "SuaGioHang.cshtml",
+              "DocumentMoniker": "D:\\Ki 6\\Application Development\\du an cua thay thanh\\CHBHTH\\CHBHTH\\CHBHTH\\Views\\GioHang\\SuaGioHang.cshtml",
+              "RelativeDocumentMoniker": "CHBHTH\\Views\\GioHang\\SuaGioHang.cshtml",
+              "ToolTip": "D:\\Ki 6\\Application Development\\du an cua thay thanh\\CHBHTH\\CHBHTH\\CHBHTH\\Views\\GioHang\\SuaGioHang.cshtml",
+              "RelativeToolTip": "CHBHTH\\Views\\GioHang\\SuaGioHang.cshtml",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-26T01:02:03.87Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "GioHangPartial.cshtml",
+              "DocumentMoniker": "D:\\Ki 6\\Application Development\\du an cua thay thanh\\CHBHTH\\CHBHTH\\CHBHTH\\Views\\GioHang\\GioHangPartial.cshtml",
+              "RelativeDocumentMoniker": "CHBHTH\\Views\\GioHang\\GioHangPartial.cshtml",
+              "ToolTip": "D:\\Ki 6\\Application Development\\du an cua thay thanh\\CHBHTH\\CHBHTH\\CHBHTH\\Views\\GioHang\\GioHangPartial.cshtml",
+              "RelativeToolTip": "CHBHTH\\Views\\GioHang\\GioHangPartial.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-01T20:55:34.741Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "D:\\Ki 6\\Application Development\\du an cua thay thanh\\CHBHTH\\CHBHTH\\CHBHTH\\Views\\Donhangs\\Details.cshtml",
+              "RelativeDocumentMoniker": "CHBHTH\\Views\\Donhangs\\Details.cshtml",
+              "ToolTip": "D:\\Ki 6\\Application Development\\du an cua thay thanh\\CHBHTH\\CHBHTH\\CHBHTH\\Views\\Donhangs\\Details.cshtml",
+              "RelativeToolTip": "CHBHTH\\Views\\Donhangs\\Details.cshtml",
+              "ViewState": "AQIAACEAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-26T01:52:40.505Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "danhmucpartial.cshtml",
+              "DocumentMoniker": "D:\\Ki 6\\Application Development\\du an cua thay thanh\\CHBHTH\\CHBHTH\\CHBHTH\\Views\\danhmuc\\danhmucpartial.cshtml",
+              "RelativeDocumentMoniker": "CHBHTH\\Views\\danhmuc\\danhmucpartial.cshtml",
+              "ToolTip": "D:\\Ki 6\\Application Development\\du an cua thay thanh\\CHBHTH\\CHBHTH\\CHBHTH\\Views\\danhmuc\\danhmucpartial.cshtml",
+              "RelativeToolTip": "CHBHTH\\Views\\danhmuc\\danhmucpartial.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-26T01:02:03.873Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "Web.config",
+              "DocumentMoniker": "D:\\Ki 6\\Application Development\\du an cua thay thanh\\CHBHTH\\CHBHTH\\CHBHTH\\Views\\Web.config",
+              "RelativeDocumentMoniker": "CHBHTH\\Views\\Web.config",
+              "ToolTip": "D:\\Ki 6\\Application Development\\du an cua thay thanh\\CHBHTH\\CHBHTH\\CHBHTH\\Views\\Web.config",
+              "RelativeToolTip": "CHBHTH\\Views\\Web.config",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-04-01T20:54:49.343Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "D:\\Ki 6\\Application Development\\du an cua thay thanh\\CHBHTH\\CHBHTH\\CHBHTH\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "CHBHTH\\Views\\_ViewStart.cshtml",
+              "ToolTip": "D:\\Ki 6\\Application Development\\du an cua thay thanh\\CHBHTH\\CHBHTH\\CHBHTH\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "CHBHTH\\Views\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-01T20:54:47.197Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "GioHang.cshtml",
+              "DocumentMoniker": "D:\\Ki 6\\Application Development\\du an cua thay thanh\\CHBHTH\\CHBHTH\\CHBHTH\\Views\\GioHang\\GioHang.cshtml",
+              "RelativeDocumentMoniker": "CHBHTH\\Views\\GioHang\\GioHang.cshtml",
+              "ToolTip": "D:\\Ki 6\\Application Development\\du an cua thay thanh\\CHBHTH\\CHBHTH\\CHBHTH\\Views\\GioHang\\GioHang.cshtml",
+              "RelativeToolTip": "CHBHTH\\Views\\GioHang\\GioHang.cshtml",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-26T01:02:03.874Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "AdminAreaRegistration.cs",
+              "DocumentMoniker": "D:\\Ki 6\\Application Development\\du an cua thay thanh\\CHBHTH\\CHBHTH\\CHBHTH\\Areas\\Admin\\AdminAreaRegistration.cs",
+              "RelativeDocumentMoniker": "CHBHTH\\Areas\\Admin\\AdminAreaRegistration.cs",
+              "ToolTip": "D:\\Ki 6\\Application Development\\du an cua thay thanh\\CHBHTH\\CHBHTH\\CHBHTH\\Areas\\Admin\\AdminAreaRegistration.cs",
+              "RelativeToolTip": "CHBHTH\\Areas\\Admin\\AdminAreaRegistration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-01T20:24:27.5Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "BANNER-XAKHO.jpg -  [English (United States)] - Bitmap [980x200, 24 bit, JPG]",
+              "DocumentMoniker": "D:\\Ki 6\\Application Development\\du an cua thay thanh\\CHBHTH\\CHBHTH\\CHBHTH\\Images\\BANNER-XAKHO.jpg",
+              "RelativeDocumentMoniker": "CHBHTH\\Images\\BANNER-XAKHO.jpg",
+              "ToolTip": "D:\\Ki 6\\Application Development\\du an cua thay thanh\\CHBHTH\\CHBHTH\\CHBHTH\\Images\\BANNER-XAKHO.jpg -  [English (United States)] - Bitmap [980x200, 24 bit, JPG]",
+              "RelativeToolTip": "CHBHTH\\Images\\BANNER-XAKHO.jpg -  [English (United States)] - Bitmap [980x200, 24 bit, JPG]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2024-03-26T01:56:07.348Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "ChiTietDonHang.cs",
+              "DocumentMoniker": "D:\\Ki 6\\Application Development\\du an cua thay thanh\\CHBHTH\\CHBHTH\\CHBHTH\\Models\\ChiTietDonHang.cs",
+              "RelativeDocumentMoniker": "CHBHTH\\Models\\ChiTietDonHang.cs",
+              "ToolTip": "D:\\Ki 6\\Application Development\\du an cua thay thanh\\CHBHTH\\CHBHTH\\CHBHTH\\Models\\ChiTietDonHang.cs",
+              "RelativeToolTip": "CHBHTH\\Models\\ChiTietDonHang.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAzwAsAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-26T01:55:57.591Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\Ki 6\\Application Development\\du an cua thay thanh\\CHBHTH\\CHBHTH\\CHBHTH\\Areas\\Admin\\Views\\SanPhams\\Create.cshtml",
+              "RelativeDocumentMoniker": "CHBHTH\\Areas\\Admin\\Views\\SanPhams\\Create.cshtml",
+              "ToolTip": "D:\\Ki 6\\Application Development\\du an cua thay thanh\\CHBHTH\\CHBHTH\\CHBHTH\\Areas\\Admin\\Views\\SanPhams\\Create.cshtml",
+              "RelativeToolTip": "CHBHTH\\Areas\\Admin\\Views\\SanPhams\\Create.cshtml",
+              "ViewState": "AQIAADQAAAAAAAAAAAAAAEQAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-26T01:02:03.872Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "DonHang.cs",
+              "DocumentMoniker": "D:\\Ki 6\\Application Development\\du an cua thay thanh\\CHBHTH\\CHBHTH\\CHBHTH\\Models\\DonHang.cs",
+              "RelativeDocumentMoniker": "CHBHTH\\Models\\DonHang.cs",
+              "ToolTip": "D:\\Ki 6\\Application Development\\du an cua thay thanh\\CHBHTH\\CHBHTH\\CHBHTH\\Models\\DonHang.cs",
+              "RelativeToolTip": "CHBHTH\\Models\\DonHang.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAowAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-26T01:56:01.893Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\Ki 6\\Application Development\\du an cua thay thanh\\CHBHTH\\CHBHTH\\CHBHTH\\Areas\\Admin\\Views\\DonHangs\\Create.cshtml",
+              "RelativeDocumentMoniker": "CHBHTH\\Areas\\Admin\\Views\\DonHangs\\Create.cshtml",
+              "ToolTip": "D:\\Ki 6\\Application Development\\du an cua thay thanh\\CHBHTH\\CHBHTH\\CHBHTH\\Areas\\Admin\\Views\\DonHangs\\Create.cshtml",
+              "RelativeToolTip": "CHBHTH\\Areas\\Admin\\Views\\DonHangs\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-26T01:58:56.984Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\Ki 6\\Application Development\\du an cua thay thanh\\CHBHTH\\CHBHTH\\CHBHTH\\Areas\\Admin\\Views\\SanPhams\\Edit.cshtml",
+              "RelativeDocumentMoniker": "CHBHTH\\Areas\\Admin\\Views\\SanPhams\\Edit.cshtml",
+              "ToolTip": "D:\\Ki 6\\Application Development\\du an cua thay thanh\\CHBHTH\\CHBHTH\\CHBHTH\\Areas\\Admin\\Views\\SanPhams\\Edit.cshtml",
+              "RelativeToolTip": "CHBHTH\\Areas\\Admin\\Views\\SanPhams\\Edit.cshtml",
+              "ViewState": "AQIAACIAAAAAAAAAAAAAAD0AAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-29T06:55:20.416Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "SanPham.cs",
+              "DocumentMoniker": "D:\\Ki 6\\Application Development\\du an cua thay thanh\\CHBHTH\\CHBHTH\\CHBHTH\\Models\\SanPham.cs",
+              "RelativeDocumentMoniker": "CHBHTH\\Models\\SanPham.cs",
+              "ToolTip": "D:\\Ki 6\\Application Development\\du an cua thay thanh\\CHBHTH\\CHBHTH\\CHBHTH\\Models\\SanPham.cs",
+              "RelativeToolTip": "CHBHTH\\Models\\SanPham.cs",
+              "ViewState": "AQIAACUAAAAAAAAAAAAwwAkAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-29T08:47:21.187Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\Ki 6\\Application Development\\du an cua thay thanh\\CHBHTH\\CHBHTH\\CHBHTH\\Areas\\Admin\\Views\\ChiTietDonHangs\\Create.cshtml",
+              "RelativeDocumentMoniker": "CHBHTH\\Areas\\Admin\\Views\\ChiTietDonHangs\\Create.cshtml",
+              "ToolTip": "D:\\Ki 6\\Application Development\\du an cua thay thanh\\CHBHTH\\CHBHTH\\CHBHTH\\Areas\\Admin\\Views\\ChiTietDonHangs\\Create.cshtml",
+              "RelativeToolTip": "CHBHTH\\Areas\\Admin\\Views\\ChiTietDonHangs\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-26T01:57:59.275Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "tintucController.cs",
+              "DocumentMoniker": "D:\\Ki 6\\Application Development\\du an cua thay thanh\\CHBHTH\\CHBHTH\\CHBHTH\\Controllers\\tintucController.cs",
+              "RelativeDocumentMoniker": "CHBHTH\\Controllers\\tintucController.cs",
+              "ToolTip": "D:\\Ki 6\\Application Development\\du an cua thay thanh\\CHBHTH\\CHBHTH\\CHBHTH\\Controllers\\tintucController.cs",
+              "RelativeToolTip": "CHBHTH\\Controllers\\tintucController.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-26T01:30:28.311Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "scripts.js",
+              "DocumentMoniker": "D:\\Ki 6\\Application Development\\du an cua thay thanh\\CHBHTH\\CHBHTH\\CHBHTH\\Views\\Home\\js\\scripts.js",
+              "RelativeDocumentMoniker": "CHBHTH\\Views\\Home\\js\\scripts.js",
+              "ToolTip": "D:\\Ki 6\\Application Development\\du an cua thay thanh\\CHBHTH\\CHBHTH\\CHBHTH\\Views\\Home\\js\\scripts.js",
+              "RelativeToolTip": "CHBHTH\\Views\\Home\\js\\scripts.js",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-03-26T02:04:49.012Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "styles.css",
+              "DocumentMoniker": "D:\\Ki 6\\Application Development\\du an cua thay thanh\\CHBHTH\\CHBHTH\\CHBHTH\\Views\\Home\\css\\styles.css",
+              "RelativeDocumentMoniker": "CHBHTH\\Views\\Home\\css\\styles.css",
+              "ToolTip": "D:\\Ki 6\\Application Development\\du an cua thay thanh\\CHBHTH\\CHBHTH\\CHBHTH\\Views\\Home\\css\\styles.css",
+              "RelativeToolTip": "CHBHTH\\Views\\Home\\css\\styles.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-03-26T02:04:48.141Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "favicon.ico -  [English (United States)] - Icon [75x75, 32 bit, BMP]",
+              "DocumentMoniker": "D:\\Ki 6\\Application Development\\du an cua thay thanh\\CHBHTH\\CHBHTH\\CHBHTH\\Views\\Home\\assets\\favicon.ico",
+              "RelativeDocumentMoniker": "CHBHTH\\Views\\Home\\assets\\favicon.ico",
+              "ToolTip": "D:\\Ki 6\\Application Development\\du an cua thay thanh\\CHBHTH\\CHBHTH\\CHBHTH\\Views\\Home\\assets\\favicon.ico -  [English (United States)] - Icon [75x75, 32 bit, BMP]",
+              "RelativeToolTip": "CHBHTH\\Views\\Home\\assets\\favicon.ico -  [English (United States)] - Icon [75x75, 32 bit, BMP]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001525|",
+              "WhenOpened": "2024-03-26T02:04:45.66Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "DAUAN-3.png",
+              "DocumentMoniker": "D:\\Ki 6\\Application Development\\du an cua thay thanh\\CHBHTH\\CHBHTH\\CHBHTH\\Images\\DAUAN-3.png",
+              "RelativeDocumentMoniker": "CHBHTH\\Images\\DAUAN-3.png",
+              "ToolTip": "D:\\Ki 6\\Application Development\\du an cua thay thanh\\CHBHTH\\CHBHTH\\CHBHTH\\Images\\DAUAN-3.png",
+              "RelativeToolTip": "CHBHTH\\Images\\DAUAN-3.png",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2024-03-26T02:04:03.519Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "DAUAN-2.png -  [English (United States)] - PNG [478x1024, 32 bit, PNG]",
+              "DocumentMoniker": "D:\\Ki 6\\Application Development\\du an cua thay thanh\\CHBHTH\\CHBHTH\\CHBHTH\\Images\\DAUAN-2.png",
+              "RelativeDocumentMoniker": "CHBHTH\\Images\\DAUAN-2.png",
+              "ToolTip": "D:\\Ki 6\\Application Development\\du an cua thay thanh\\CHBHTH\\CHBHTH\\CHBHTH\\Images\\DAUAN-2.png -  [English (United States)] - PNG [478x1024, 32 bit, PNG]",
+              "RelativeToolTip": "CHBHTH\\Images\\DAUAN-2.png -  [English (United States)] - PNG [478x1024, 32 bit, PNG]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2024-03-26T02:04:01.401Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "DAUAN-1.jpg -  [English (United States)] - Bitmap [225x225, 24 bit, JPG]",
+              "DocumentMoniker": "D:\\Ki 6\\Application Development\\du an cua thay thanh\\CHBHTH\\CHBHTH\\CHBHTH\\Images\\DAUAN-1.jpg",
+              "RelativeDocumentMoniker": "CHBHTH\\Images\\DAUAN-1.jpg",
+              "ToolTip": "D:\\Ki 6\\Application Development\\du an cua thay thanh\\CHBHTH\\CHBHTH\\CHBHTH\\Images\\DAUAN-1.jpg -  [English (United States)] - Bitmap [225x225, 24 bit, JPG]",
+              "RelativeToolTip": "CHBHTH\\Images\\DAUAN-1.jpg -  [English (United States)] - Bitmap [225x225, 24 bit, JPG]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2024-03-26T02:04:00.745Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Ki 6\\Application Development\\du an cua thay thanh\\CHBHTH\\CHBHTH\\CHBHTH\\Views\\tintuc\\Index.cshtml",
+              "RelativeDocumentMoniker": "CHBHTH\\Views\\tintuc\\Index.cshtml",
+              "ToolTip": "D:\\Ki 6\\Application Development\\du an cua thay thanh\\CHBHTH\\CHBHTH\\CHBHTH\\Views\\tintuc\\Index.cshtml",
+              "RelativeToolTip": "CHBHTH\\Views\\tintuc\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-26T01:52:22.619Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Ki 6\\Application Development\\du an cua thay thanh\\CHBHTH\\CHBHTH\\CHBHTH\\Areas\\Admin\\Views\\ChiTietDonHangs\\Index.cshtml",
+              "RelativeDocumentMoniker": "CHBHTH\\Areas\\Admin\\Views\\ChiTietDonHangs\\Index.cshtml",
+              "ToolTip": "D:\\Ki 6\\Application Development\\du an cua thay thanh\\CHBHTH\\CHBHTH\\CHBHTH\\Areas\\Admin\\Views\\ChiTietDonHangs\\Index.cshtml",
+              "RelativeToolTip": "CHBHTH\\Areas\\Admin\\Views\\ChiTietDonHangs\\Index.cshtml",
+              "ViewState": "AQIAACoAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-26T01:58:51.504Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\Ki 6\\Application Development\\du an cua thay thanh\\CHBHTH\\CHBHTH\\CHBHTH\\Areas\\Admin\\Views\\ChiTietDonHangs\\Edit.cshtml",
+              "RelativeDocumentMoniker": "CHBHTH\\Areas\\Admin\\Views\\ChiTietDonHangs\\Edit.cshtml",
+              "ToolTip": "D:\\Ki 6\\Application Development\\du an cua thay thanh\\CHBHTH\\CHBHTH\\CHBHTH\\Areas\\Admin\\Views\\ChiTietDonHangs\\Edit.cshtml",
+              "RelativeToolTip": "CHBHTH\\Areas\\Admin\\Views\\ChiTietDonHangs\\Edit.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-26T01:58:49.778Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "D:\\Ki 6\\Application Development\\du an cua thay thanh\\CHBHTH\\CHBHTH\\CHBHTH\\Areas\\Admin\\Views\\ChiTietDonHangs\\Details.cshtml",
+              "RelativeDocumentMoniker": "CHBHTH\\Areas\\Admin\\Views\\ChiTietDonHangs\\Details.cshtml",
+              "ToolTip": "D:\\Ki 6\\Application Development\\du an cua thay thanh\\CHBHTH\\CHBHTH\\CHBHTH\\Areas\\Admin\\Views\\ChiTietDonHangs\\Details.cshtml",
+              "RelativeToolTip": "CHBHTH\\Areas\\Admin\\Views\\ChiTietDonHangs\\Details.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-26T01:58:48.676Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "D:\\Ki 6\\Application Development\\du an cua thay thanh\\CHBHTH\\CHBHTH\\CHBHTH\\Areas\\Admin\\Views\\ChiTietDonHangs\\Delete.cshtml",
+              "RelativeDocumentMoniker": "CHBHTH\\Areas\\Admin\\Views\\ChiTietDonHangs\\Delete.cshtml",
+              "ToolTip": "D:\\Ki 6\\Application Development\\du an cua thay thanh\\CHBHTH\\CHBHTH\\CHBHTH\\Areas\\Admin\\Views\\ChiTietDonHangs\\Delete.cshtml",
+              "RelativeToolTip": "CHBHTH\\Areas\\Admin\\Views\\ChiTietDonHangs\\Delete.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-26T01:58:47.679Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\Ki 6\\Application Development\\du an cua thay thanh\\CHBHTH\\CHBHTH\\CHBHTH\\Areas\\Admin\\Views\\TinTucs\\Create.cshtml",
+              "RelativeDocumentMoniker": "CHBHTH\\Areas\\Admin\\Views\\TinTucs\\Create.cshtml",
+              "ToolTip": "D:\\Ki 6\\Application Development\\du an cua thay thanh\\CHBHTH\\CHBHTH\\CHBHTH\\Areas\\Admin\\Views\\TinTucs\\Create.cshtml",
+              "RelativeToolTip": "CHBHTH\\Areas\\Admin\\Views\\TinTucs\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-26T01:53:52.691Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "TinTuc.cs",
+              "DocumentMoniker": "D:\\Ki 6\\Application Development\\du an cua thay thanh\\CHBHTH\\CHBHTH\\CHBHTH\\Models\\TinTuc.cs",
+              "RelativeDocumentMoniker": "CHBHTH\\Models\\TinTuc.cs",
+              "ToolTip": "D:\\Ki 6\\Application Development\\du an cua thay thanh\\CHBHTH\\CHBHTH\\CHBHTH\\Models\\TinTuc.cs",
+              "RelativeToolTip": "CHBHTH\\Models\\TinTuc.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-26T01:52:56.463Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "ThongKes.cs",
+              "DocumentMoniker": "D:\\Ki 6\\Application Development\\du an cua thay thanh\\CHBHTH\\CHBHTH\\CHBHTH\\Models\\ThongKes.cs",
+              "RelativeDocumentMoniker": "CHBHTH\\Models\\ThongKes.cs",
+              "ToolTip": "D:\\Ki 6\\Application Development\\du an cua thay thanh\\CHBHTH\\CHBHTH\\CHBHTH\\Models\\ThongKes.cs",
+              "RelativeToolTip": "CHBHTH\\Models\\ThongKes.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-26T01:02:03.866Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "QLbanhang.cs",
+              "DocumentMoniker": "D:\\Ki 6\\Application Development\\du an cua thay thanh\\CHBHTH\\CHBHTH\\CHBHTH\\Models\\QLbanhang.cs",
+              "RelativeDocumentMoniker": "CHBHTH\\Models\\QLbanhang.cs",
+              "ToolTip": "D:\\Ki 6\\Application Development\\du an cua thay thanh\\CHBHTH\\CHBHTH\\CHBHTH\\Models\\QLbanhang.cs",
+              "RelativeToolTip": "CHBHTH\\Models\\QLbanhang.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-26T01:02:03.868Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 65,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "D:\\Ki 6\\Application Development\\du an cua thay thanh\\CHBHTH\\CHBHTH\\CHBHTH\\Areas\\Admin\\Views\\DonHangs\\Details.cshtml",
+              "RelativeDocumentMoniker": "CHBHTH\\Areas\\Admin\\Views\\DonHangs\\Details.cshtml",
+              "ToolTip": "D:\\Ki 6\\Application Development\\du an cua thay thanh\\CHBHTH\\CHBHTH\\CHBHTH\\Areas\\Admin\\Views\\DonHangs\\Details.cshtml",
+              "RelativeToolTip": "CHBHTH\\Areas\\Admin\\Views\\DonHangs\\Details.cshtml",
+              "ViewState": "AQIAACoAAAAAAAAAAAAAAGIAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-26T01:02:03.87Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 66,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Ki 6\\Application Development\\du an cua thay thanh\\CHBHTH\\CHBHTH\\CHBHTH\\Areas\\Admin\\Views\\Thongkes\\Index.cshtml",
+              "RelativeDocumentMoniker": "CHBHTH\\Areas\\Admin\\Views\\Thongkes\\Index.cshtml",
+              "ToolTip": "D:\\Ki 6\\Application Development\\du an cua thay thanh\\CHBHTH\\CHBHTH\\CHBHTH\\Areas\\Admin\\Views\\Thongkes\\Index.cshtml",
+              "RelativeToolTip": "CHBHTH\\Areas\\Admin\\Views\\Thongkes\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-26T01:02:03.871Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
